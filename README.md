@@ -1,5 +1,5 @@
 # ExceptionExamples
-72. Day - #100DaysOfCode Challenge (Examples about all of the kinds of Exceptions in Java)
+72. Day - #100DaysOfCode Challenge (Examples about different kinds of Exceptions in Java)
 * From my lesson: Object-Oriented and Functional Programming in Java (Akin Kaldiroglu)
 
 ##
